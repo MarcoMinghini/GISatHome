@@ -7,24 +7,24 @@ Tweets were about significant research papers, tutorials, courses, books, videos
 
 | Day | Tweet |
 |:---:|:---|
-| Day 0 | xxxx |
-| Day 1 | xxxx |
-| Day 2 | xxxx |
-| Day 3 | xxxx |
-| Day 4 | xxxx |
-| Day 5 | xxxx |
-| Day 6 | xxxx |
-| Day 7 | xxxx |
-| Day 8 | xxxx |
-| Day 9 | xxxx |
-| Day 10 | xxxx |
-| Day 11 | xxxx |
-| Day 12 | xxxx |
-| Day 13 | xxxx |
-| Day 14 | xxxx |
-| Day 15 | xxxx |
-| Day 16 | xxxx |
-| Day 17 | xxxx |
-| Day 18 | xxxx |
-| Day 19 | xxxx |
-| Day 20 | xxxx |
+| Day 0 | https://twitter.com/MarcoMinghini/status/1241996482594693121 | 
+| Day 1 | https://twitter.com/MarcoMinghini/status/1242358272411271169 |
+| Day 2 | https://twitter.com/MarcoMinghini/status/1242721227896127489 |
+| Day 3 | https://twitter.com/MarcoMinghini/status/1243087464560033792 |
+| Day 4 | https://twitter.com/MarcoMinghini/status/1243449431564877824 |
+| Day 5 | https://twitter.com/MarcoMinghini/status/1243827393539780608 |
+| Day 6 | https://twitter.com/MarcoMinghini/status/1244178269538258944 |
+| Day 7 | https://twitter.com/MarcoMinghini/status/1244519401145147397 |
+| Day 8 | https://twitter.com/MarcoMinghini/status/1244885573703217156 |
+| Day 9 | https://twitter.com/MarcoMinghini/status/1245244260212977664 |
+| Day 10 | https://twitter.com/MarcoMinghini/status/1245607176384598018 |
+| Day 11 | https://twitter.com/MarcoMinghini/status/1245972360408244224 |
+| Day 12 | https://twitter.com/MarcoMinghini/status/1246349534248263680 |
+| Day 13 | https://twitter.com/MarcoMinghini/status/1246710456456228869 |
+| Day 14 | https://twitter.com/MarcoMinghini/status/1247056786286354435 |
+| Day 15 | https://twitter.com/MarcoMinghini/status/1247422392525295623 |
+| Day 16 | https://twitter.com/MarcoMinghini/status/1247787959060840449 |
+| Day 17 | https://twitter.com/MarcoMinghini/status/1248146432432930817 |
+| Day 18 | https://twitter.com/MarcoMinghini/status/1248518108127641600 |
+| Day 19 | https://twitter.com/MarcoMinghini/status/1248882946255224832 |
+| Day 20 | https://twitter.com/MarcoMinghini/status/1249241741292601345 |
